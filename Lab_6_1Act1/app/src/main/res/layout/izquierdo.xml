@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#00ffff">
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_height="match_parent"
+        android:layout_width="match_parent"
+        android:layout_weight="1"
+        android:text="@string/Fragmento1"
+        android:textStyle="bold"
+        android:background="#00ffff"
+        android:textColor="#FFFFFF"
+        android:textSize="25dp" />
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="bizquierdo"
+        android:id="@+id/boton_izquierdo"
+        android:layout_gravity="center"
+        android:background="#33B5E5"
+        android:padding="20dp"
+        android:textSize="15sp"
+        android:textColor="#FFFFFF"/>
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Hola Izquierdo"
+        android:id="@+id/editTxt"
+        android:textColor="#020801" />
+</LinearLayout>
+

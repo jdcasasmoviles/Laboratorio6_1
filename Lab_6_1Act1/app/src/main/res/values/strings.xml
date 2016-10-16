@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Lab6_1</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_buscar">Buscar</string>
+    <string name="action_nuevo">Nuevo</string>
+    <string name="action_adiccional1">Adicional1</string>
+    <string name="action_adiccional2">Adicional2</string>
+    <string name="action_adiccional3">Adicional3</string>
+    <string name="Fragmento1">Fragmento1</string>
+    <string name="Fragmento2">Fragmento2</string>
+</resources>
